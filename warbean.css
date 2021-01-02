@@ -125,14 +125,6 @@ background-position: 0 -70px;
     left: calc(100% - 105px);
 }
 
-.ds4 .dpad {
-    position: absolute;
-    width: 125px;
-    height: 126px;
-    top: 181px;
-    left: 92px;
-}
-
 .ds4.half {
     margin-top: -300px;
 }
