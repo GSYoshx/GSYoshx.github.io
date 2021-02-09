@@ -109,6 +109,13 @@ background-position: 0 -70px;
     left: 227px;
 }
 
+.ds4 .back, .ds4 .start {
+    background: url(https://imgur.com/VAQrfkL.png);
+    width: 28px;
+    height: 46px;
+    opacity: 0;
+}
+
 .ds4 .back.pressed, .ds4 .start.pressed {
     /* background-position-y: -21px; */
     /* margin-top: 2px; */
