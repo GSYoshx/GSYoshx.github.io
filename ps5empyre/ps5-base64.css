@@ -807,7 +807,7 @@
   left: 11.6875pc; 
 }
 [class~=custom] [class~=face] {
-  background: url(''); 
+  background: url('image10.png'); 
 }
 [class~=custom] [class~=face][class~=up][class~=pressed],[class~=custom] [class~=face][class~=down][class~=pressed] {
   width: 71px;
