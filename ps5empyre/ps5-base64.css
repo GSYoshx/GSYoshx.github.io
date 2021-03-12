@@ -629,9 +629,6 @@
 [class~=custom] [class~=arrows],[class~=custom] [class~=face][class~=right][class~=pressed] {     
   background-repeat: no-repeat; 
 } 
-[class~=custom] [class~=back] {     
-  background: url('image18.png'); 
-} 
 [class~=custom] [class~=back],[class~=custom] [class~=start] {     
   width: 2.125pc; 
 } 
