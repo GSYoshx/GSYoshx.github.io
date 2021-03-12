@@ -1,5 +1,5 @@
 [class~=controller][class~=custom] {
-  background: url('./image1.png'); 
+  background: url('image1.png'); 
 }
 [class~=controller][class~=custom] {
   height: 637.5pt; 
@@ -23,7 +23,7 @@
   -webkit-animation-fill-mode: forwards;
 }
 [class~=custom][class~=disconnected] {
-  background: url('./image2.png');
+  background: url('image2.png');
 }
 @keyframes Callback {
   0% {
@@ -77,7 +77,7 @@
   height: 114px;
 }
 [class~=custom] [class~=trigger] {
-  background: url('./image3.png');
+  background: url('image3.png');
 }
 [class~=custom] [class~=trigger] {
   background-repeat: no-repeat;
@@ -97,7 +97,7 @@
   background-position-x: 90pt;
 } 
 [class~=custom] [class~=bumper] {
-  background: url('./image4.png');
+  background: url('image4.png');
 } 
 [class~=custom] [class~=trigger][class~=right] {
   float: right;
@@ -201,7 +201,7 @@
   top: 2.604166667in;
 }
 [class~=custom] [class~=button][class~=pressed] {
-  background: url('./image5.png');
+  background: url('image5.png');
 } 
 [class~=custom] [class~=button][class~=pressed] {
   height: 158.25pt;
@@ -213,7 +213,7 @@
   background-repeat: no-repeat;
 }
 [class~=custom] [class~=back] {
-  background: url('./image6.png');
+  background: url('image6.png');
 } 
 [class~=custom] [class~=back],[class~=custom] [class~=start] {
   width: 2.125pc;
@@ -322,7 +322,7 @@
   left: 20.0625pc; 
 } 
 [class~=custom] .stick {     
-  background: url('./image8.png'); 
+  background: url('image8.png'); 
 } 
 [class~=custom] [class~=face][class~=left][class~=pressed],[class~=custom] .stick,[class~=custom] [class~=face][class~=up][class~=pressed],[class~=custom] [class~=x][class~=pressed],[class~=custom] [class~=y][class~=pressed],[class~=custom] [class~=dpad] {     
   background-repeat: no-repeat; 
@@ -343,7 +343,7 @@
   left: 225.75pt; 
 } 
 [class~=custom] [class~=meta][class~=pressed] {     
-  background: url('./image9.png') no-repeat center; 
+  background: url('image9.png') no-repeat center; 
 } 
 [class~=custom] .stick {     
   width: 87pt; 
@@ -387,7 +387,7 @@
   left: 11.6875pc; 
 } 
 [class~=custom] [class~=face] {    
-  background: url('./image10.png'); 
+  background: url('image10.png'); 
 } 
 [class~=custom] [class~=face][class~=up][class~=pressed],[class~=custom] [class~=face][class~=down][class~=pressed] { 
   width: 71px; 
@@ -396,7 +396,7 @@
   height: .604166667in; 
 } 
 [class~=custom] [class~=touchpad][class~=pressed] {     
-  background: url('./image11.png'); 
+  background: url('image11.png'); 
 } 
 [class~=custom] [class~=face][class~=down][class~=pressed] {     
   transform: rotate(-90deg); 
@@ -414,7 +414,7 @@
   left: 8.75pc; 
 } 
 [class~=controller][class~=custom] {     
-  background: url('./image12.png'),url('./image13.png'); 
+  background: url('image12.png'),url('image13.png'); 
 }
 [class~=controller][class~=custom] {     
   height: 637.5pt; 
@@ -438,7 +438,7 @@
   -webkit-animation-fill-mode: forwards; 
 } 
 [class~=custom][class~=disconnected] {     
-  background: url("http://bit.ly/33UddCD"),url('./image14.png'); 
+  background: url("http://bit.ly/33UddCD"),url('image14.png'); 
 } 
 @keyframes Callback {     
   0% {         
@@ -494,7 +494,7 @@
   height: 114px; 
 } 
 [class~=custom] [class~=trigger] {     
-  background: url('./image15.png'); 
+  background: url('image15.png'); 
 } 
 [class~=custom] [class~=trigger] {     
   background-repeat: no-repeat; 
@@ -515,7 +515,7 @@
   background-position-x: 90pt; 
 } 
 [class~=custom] [class~=bumper] {     
-  background: url('./image16.png'); 
+  background: url('image16.png'); 
   
 } 
 [class~=custom] [class~=trigger][class~=right] {     
@@ -618,7 +618,7 @@
 } [class~=custom] [class~=arrows] {     
   top: 2.604166667in; 
 } [class~=custom] [class~=button][class~=pressed] {     
-  background: url('./image17.png'); 
+  background: url('image17.png'); 
 } 
 [class~=custom] [class~=button][class~=pressed] {     
   height: 158.25pt; 
@@ -630,7 +630,7 @@
   background-repeat: no-repeat; 
 } 
 [class~=custom] [class~=back] {     
-  background: url('./image18.png'); 
+  background: url('image18.png'); 
 } 
 [class~=custom] [class~=back],[class~=custom] [class~=start] {     
   width: 2.125pc; 
@@ -642,7 +642,7 @@
   background-repeat: no-repeat; 
 } 
 [class~=custom] [class~=start] {     
-  background: url('./image19.png'); 
+  background: url('image19.png'); 
 } 
 [class~=custom] [class~=button][class~=pressed] {     
   width: 2.197916667in; 
@@ -741,7 +741,7 @@
   left: 20.0625pc; 
 } 
 [class~=custom] [class~=stick] { 
-  background: url('./image20.png'); 
+  background: url('image20.png'); 
 } 
 [class~=custom] [class~=face][class~=left][class~=pressed],[class~=custom] .stick,[class~=custom] [class~=face][class~=up][class~=pressed],[class~=custom] [class~=x][class~=pressed],[class~=custom] [class~=y][class~=pressed],[class~=custom] [class~=dpad] {
   background-repeat: no-repeat; 
@@ -762,7 +762,7 @@
   left: 225.75pt; 
 } 
 [class~=custom] [class~=meta][class~=pressed] { 
-  background: url('./image21.png') no-repeat center; 
+  background: url('image21.png') no-repeat center; 
 } 
 [class~=custom] .stick { 
   width: 87pt; 
@@ -816,7 +816,7 @@
   height: .604166667in; 
 }
 [class~=custom] [class~=touchpad][class~=pressed] { 
-  background: url('./image23.png');
+  background: url('image23.png');
 }
 [class~=custom] [class~=face][class~=down][class~=pressed] {
   transform: rotate(-90deg);
