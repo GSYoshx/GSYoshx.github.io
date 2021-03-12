@@ -1,6 +1,4 @@
-@import url("data:text/css;base64,aHR0cHM6Ly9odHRwczovL2dzeW9zaHguZ2l0aHViLmlvL3BzNWVtcHlyZS9wczUtYmFzZTY0LmNzcw==")
-@import url("data:text/css;base64,aHR0cHM6Ly9odHRwczovL2dzeW9zaHguZ2l0aHViLmlvL3BzNWVtcHlyZS9wczUtYmFzZTY0LmNzcw==")
-    
+@import url("./ps5-base64.css")
 /*BEGIN PS5 Controller Styling*/
 .controller.ds5 {
     background: url(https://imgur.com/3Gkwm43.png);
