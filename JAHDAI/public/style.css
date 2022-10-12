@@ -49,7 +49,7 @@ li {
 
 /*------go up-----------*/
 .go-up{
-    background: #e6dacc;
+    background: #c6b08a;
     width: 40px;
     height: 40px;
     position: fixed;
@@ -71,7 +71,7 @@ li {
 
 /*-------Header----------*/
 header {
-    background-color: #e6dacc;
+    background-color: #c6b08a;
 }
 
 header .logo {
@@ -142,7 +142,7 @@ header a:hover {
 
 #quienes-somos,
 #agenda-tu-cita {
-    background-color: #e6dacc;
+    background-color: #c6b08a;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -169,7 +169,7 @@ header a:hover {
 #mision-vision h2 {
     text-align: center;
 
-    background-color: #e6dacc;
+    background-color: #c6b08a;
     border-radius: 50px;
 
     font-size: 4em;
@@ -193,7 +193,7 @@ header a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #e6dacc;
+    background-color: #c6b08a;
     height: auto;
     width: 100%;
 }
@@ -218,7 +218,7 @@ header a:hover {
 #servicios h1{
     color: #fff;
     padding: 2px 50px;
-    background-color: #e6dacc;
+    background-color: #c6b08a;
     border-radius: 50px;
 }
 
@@ -233,7 +233,7 @@ header a:hover {
 
 
 #testimonios {
-    background-color: #e6dacc;
+    background-color: #c6b08a;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -278,12 +278,12 @@ header a:hover {
 }
 
 .card:hover .card__title {
-    color: #e6dacc;
+    color: #c6b08a;
 }
 
 
 #contactanos {
-    background-color: #e6dacc;
+    background-color: #c6b08a;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -332,7 +332,7 @@ header a:hover {
 
 #footer{
     /*background-color: #222222;*/
-    background-color: #e6dacc;
+    background-color: #c6b08a;
     width: 100%;
     height: auto;
 
@@ -436,7 +436,7 @@ header a:hover {
         width: 70%;
     }
     .ico-grooming{
-        background-color: #e6dacc;
+        background-color: #c6b08a;
         height: 90vh;
         display: flex;
         width: 30%;
@@ -498,7 +498,7 @@ header a:hover {
     .contact-items {
         display: flex;
         justify-content: space-between;
-        background-color: #e6dacc;
+        background-color: #c6b08a;
     }
 
     .contact-items a {
@@ -530,7 +530,7 @@ header a:hover {
     #galeria h1{
         color: #fff;
         padding: 2px 50px;
-        background-color: #e6dacc;
+        background-color: #c6b08a;
         border-radius: 50px;
     }
     .slide img{
