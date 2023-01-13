@@ -27,6 +27,16 @@
     float: right;
 }
 
+.xbox .quadrant {
+    position: absolute;
+    background: url(xdxd.png);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
 .xbox .abxy {
     position: absolute;
     width: 153px;
